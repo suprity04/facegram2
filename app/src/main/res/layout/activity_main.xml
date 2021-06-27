@@ -32,8 +32,10 @@
       <TextView
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
-          android:text="hello world"
+          android:text="hello world gchggu,kuyc"
+          android:textColor="@color/black"
           android:textSize="25sp"
 
           />
+
 </RelativeLayout>
